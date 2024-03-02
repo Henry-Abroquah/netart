@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Whispers of the Forest</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+p {
+  color: green; font-size: 72px; font-style: italic;
+  padding: 10px; margin-right: 20px;
+  }
+  text-decoration: none;
+  
+</body> 
+</html>
+body {
+font-family:cursive;
+font-size: 45px;
+background: blue;
+}
+a{
+   text-decoration: none;
+   color: red;
+  }
+  img {
+    max-width: 100%;
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    }
