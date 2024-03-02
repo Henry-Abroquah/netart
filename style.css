@@ -6,16 +6,23 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 <body>
-  <h1> Whispers of the Forest</h1>
-  <p>Welcome to the enchanted forest...</p>
-  <p>As you walk deeper into the woods, you hear a faint whisper...</p>
-  <p>What will you do</P>
-  <ul>
-    <li><a href="explore.html">Explore the depths of the forest</a></li>
-    <li><ahref="climb.html">climb the towering tree</a></li>
-    <li><a href="venture.html">Venture into hidden caves</a></li>
-    </ul>
+p {
+  color: green; font-size: 72px; font-style: italic;
+  padding: 10px; margin-right: 20px;
+  }
+  text-decoration: none;
+  
 </body> 
 </html>
-
-
+body {
+font-family:cursive;
+font-size: 45px;
+background: blue;
+}
+a{
+   text-decoration: none;
+   color: yellow;
+  }
+  img {
+    maz width:100%;
+  }
