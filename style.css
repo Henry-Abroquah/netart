@@ -1,28 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Whispers of the Forest</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-</head>
-<body>
-p {
-  color: green; font-size: 72px; font-style: italic;
-  padding: 10px; margin-right: 20px;
+.box1 {
+    background-color:green;
+    width:30%;
+    height:25px;
+    float:left;
   }
-  text-decoration: none;
+  .box2 {
+    background-color:blue;
+    width:5%;
+    height:25px;
+    float:left;
+  }
   
-</body> 
-</html>
-body {
-font-family:cursive;
-font-size: 45px;
-background: blue;
-}
-a{
-   text-decoration: none;
-   color: yellow;
+  .box3 {
+    background-color:red;
+    width:2%;
+    height:5px;
+    float:left;
   }
-  img {
-    maz width:100%;
+  
+  .box4 {
+    background-color:darkred;
+    width:5%;
+    height:2px;
+    float:left;
   }
+  
+  .box5 {
+    background-color:orangered;
+    width:30%;
+    height:25px;
+    float:left;
+  }
+  .box6 {
+    background-color:orchid;
+    width:5%;
+    height:25px;
+    float:left;
+  }
+  
+  
+  
+  
+  
+  Resources
