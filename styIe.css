@@ -1,49 +1,40 @@
 * { 
-  margin: 0; 
-.box1 {
-    background-color:green;
-    width:30%;
-    height:25px;
-    float:left;
-  }
-  .box2 {
-    background-color:blue;
-    width:5%;
-    height:25px;
-    float:left;
+    margin: 0; 
+    padding: 0; 
   }
   
-  .box3 {
-    background-color:red;
-    width:2%;
-    height:5px;
-    float:left;
-  }
-  
-  .box4 {
-    background-color:darkred;
-    width:5%;
-    height:2px;
-    float:left;
-  }
-  
-  .box5 {
-    background-color:orangered;
-    width:30%;
-    height:25px;
-    float:left;
-  }
-  .box6 {
-    background-color:orchid;
-    width:5%;
-    height:25px;
-    float:left;
-  }
-  
-  
-  
-  
-  
-  Resources
-  padding: 0; 
+.column1 {
+  width:20%;
+  height:100px;
+  float:left;
+}
+
+.column2 {
+  background-color:orangered;
+  width:60%;
+  height:200px;
+  float:left;
+}
+
+.column3 {
+  width:20%;
+  height:200px;
+  float:left;
+}
+
+.smallbox {
+  width:100%;
+  height:100px;
+}
+
+.red {
+  background-color:#2596be;
+}
+
+.orange {
+  background-color:#be4d25;
+}
+
+.gray {
+  background-color:#49be25;
 }
