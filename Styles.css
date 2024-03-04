@@ -1,0 +1,40 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+.column1 {
+  width:20%;
+  height:100px;
+  float:left;
+}
+
+.column2 {
+  background-color:orangered;
+  width:60%;
+  height:200px;
+  float:left;
+}
+
+.column3 {
+  width:20%;
+  height:200px;
+  float:left;
+}
+
+.smallbox {
+  width:100%;
+  height:100px;
+}
+
+.red {
+  background-color:#2596be;
+}
+
+.orange {
+  background-color:#be4d25;
+}
+
+.gray {
+  background-color:#49be25;
+}
