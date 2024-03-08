@@ -1,120 +1,169 @@
 .henry {
   background-color:green;
     width:30%;
-    height:25px;
+    height:100px;
     float:left;
   }
   .life {
     background-color:blue;
-    width:5%;
-    height:25px;
+    width:30%;
+    height:100px;
     float:left;
   }.base {
     background-color:red;
     width:30%;
-    height:25px;
+    height:100px;
     float:left;
   }
   .me {
     background-color:bisque;
-    width:5%;
-    height:25px;
+    width:30%;
+    height:100px;
     float:left;
   }
   .out {
     background-color:darkred;
-    width:5%;
-    height:2px;
+    width:30%;
+    height:100px;
     float:left;
   }
   
   .better {
     background-color:blanchedalmond;
     width:30%;
-    height:25px;
+    height:100px;
     float:left;
   }
   .next {
     background-color:orchid;
-    width:5%;
-    height:25px;
-    float:left;
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.box1 {
-    background-color:green;
     width:30%;
-    height:25px;
+    height:100px;
     float:left;
   }
-  .box2 {
-    background-color:blue;
-    width:5%;
-    height:25px;
-    float:left;
-  }
-  
-  .box3 {
-    background-color:red;
-    width:2%;
-    height:5px;
-    float:left;
-  }
-  
-  .box4 {
-    background-color:darkred;
-    width:5%;
-    height:2px;
-    float:left;
-  }
-  
-  .box5 {
-    background-color:orangered;
+  .time{
+    background-color:gold;
     width:30%;
-    height:25px;
+    height:100px;
     float:left;
   }
-  .box6 {
-    background-color:orchid;
-    width:5%;
-    height:25px;
-    float:left;
+ .time2{
+  background-color:gray;
+  width:30%;
+  height:100px;
+  float:left;
   }
-  
-  
-  
-  
-  
-  Resources
+ .time3{
+  background-color:greenyellow;
+  width:30%;
+  height:100px;
+  float:left;
+  }
+  .time4{
+    background-color:powderblue;
+    width:30%;
+    height:100px;
+    float:left;
+ }
+    .time5{
+    background-color:honeydew;
+    width:30%;
+    height:100px;
+    float:left;
+   }
+    .time6{
+     background-color:blanchedalmond;
+     width:30%;
+     height:100px;
+     float:left;
+     }
+     .time7{
+      background-color:blueviolet;
+      width:30%;
+      height:100px;
+      float:left;
+      }
+      .time8{
+       background-color:red;
+       width:30%;
+       height:100px;
+       float:left;
+        }
+       .time9{
+        background-color:seagreen;
+        width:30%;
+        height:100px;
+        float:left;
+        }
+        .time10{
+         background-color:rgb(93, 0, 255);
+         width:30%;
+         height:100px;
+        float:left;
+        }
+        .time11{
+        background-color:skyblue;
+        width:30%;
+        height:100px;
+        float:left;
+        }
+      }
+      .time12{
+      background-color:salmon;
+      width:30%;
+      height:100px;
+      float:left;
+      }
+      .time13{
+        background-color:red;
+        width:30%;
+        height:100px;
+        float:left;
+        }
+        .time14{
+          background-color:aquamarine;
+          width:30%;
+          height:100px;
+          float:left;
+          }
+          .time15{
+            background-color:darkcyan;
+            width:30%;
+            height:100px;
+            float:left;
+            }
+            .time16{
+              background-color:skyblue;
+              width:30%;
+              height:100px;
+              float:left;
+              }
+            }
+            .time17{
+              background-color:slateblue;
+              width:30%;
+              height:100px;
+              float:left;
+              }
+               }
+            .time16{
+              background-color:olivedrab;
+              width:30%;
+              height:100px;
+              float:left;
+              }
+              .time17{
+                background-color:rgb(35, 44, 142);
+                width:30%;
+                height:100px;
+                float:left;
+                }
+                .time18{
+                  background-color:rgb(138, 142, 35);
+                  width:30%;
+                  height:100px;
+                  float:left;
+                  }
+  background-color:orchid;
+  width:30%;
+  height:100px;
+  float:left;
