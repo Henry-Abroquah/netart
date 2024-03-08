@@ -58,24 +58,24 @@
   height:100px;
   float:left;
   }
-  .time4{
-    background-color:powderblue;
-    width:30%;
-    height:100px;
-    float:left;
- }
-    .time5{
-    background-color:honeydew;
-    width:30%;
-    height:100px;
-    float:left;
-   }
-    .time6{
-     background-color:blanchedalmond;
-     width:30%;
-     height:100px;
-     float:left;
-     }
+ .time4{
+  background-color:powderblue;
+  width:30%;
+  height:100px;
+  float:left;
+  }
+  .time5{
+  background-color:honeydew;
+  width:30%;
+  height:100px;
+  float:left;
+  }
+  .time6{
+   background-color:blanchedalmond;
+   width:30%;
+   height:100px;
+  float:left;
+  }
      .time7{
       background-color:blueviolet;
       width:30%;
@@ -114,10 +114,10 @@
       float:left;
       }
       .time13{
-        background-color:red;
-        width:30%;
-        height:100px;
-        float:left;
+       background-color:red;
+      width:30%;
+      height:100px;
+      float:left;
         }
         .time14{
           background-color:aquamarine;
