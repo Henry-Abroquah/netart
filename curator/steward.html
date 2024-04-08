@@ -1,0 +1,89 @@
+
+
+Home Page>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Multi-Page in Single HTML</title>
+<style>
+    .page {
+        display: none;
+    }
+    .active {
+        display: block;
+    }
+</style>
+<script>
+    function openPage(pageName) {
+        var i, tabcontent;
+        tabcontent = document.getElementsByClassName("page");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        document.getElementById(pageName).style.display = "block";
+    }
+    document.addEventListener("DOMContentLoaded", function() {
+        openPage('Page1'); // Open the first page by default
+    });
+</script>
+</head>
+<body>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<div id="navbar">
+    <button onclick="openPage('curated')">curated</button>
+    <button onclick="openPage('Dystopia')">Data Dystopia</button>
+    <button onclick="openPage('Virtual')">Virtual Visions</button>
+</div>
+
+<div id="curated" class="page">
+    <h1>curated Content</h1>
+    <p>This is the content for Synthetic Nature
+    </p>
+    <P>Check out this website</P>
+    <ul>
+      <li><a href="https://refikanadol.com"
+      target="_blank">Synthetic Nature</a></li>
+    </ul>
+</div>
+
+<div id="Dystopia" class="page">
+    <h1>Dystopia Content</h1>
+    <p>This is the content for Data Dystopia.</p>
+  </p>
+  <P>Check out this website</P>
+  <ul>
+    <li><a href="http://myartisrealmagazine.com "
+    target="_blank">Data Dystopia</a></li>
+  </ul>
+   
+</div>
+
+<div id="Virtual" class="page">
+    <h1>Virtual Content</h1>
+    <p>This is the content for Virtual Visions.</p>
+  </p>
+  <P>Check out this website</P>
+  <ul>
+    <li><a href="https://medium.com/the-mission/the-virtual-vision-how-virtual-reality-is-changing-art-and-our-worlds-a24186524064"
+    target="_blank">Virtual Visions</a></li>
+  </ul>
+</div>
+
+</body>
+
+Steward:
+html
+<div class="slideshow">
+  <div class="slideshow2"></div>
+  <div class="slideshow3"></div>
+  <img src="artificial" alt="Description: "Synthetic Nature" is an immersive digital installation that blurs the boundaries
+
+  between the natural and the artificial, inviting viewers to explore a surreal digital ecosyste
+  ">
+  </div>
+  </div>
+  </html>
